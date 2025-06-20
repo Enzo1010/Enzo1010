@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨🏻‍💻 Enzo Bazzi de Oliveira
 
-<!--
-**Enzo1010/Enzo1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência da Computação | Técnico em Informática | Suporte Técnico e Programação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Enzo Bazzi, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o Ensino Médio integrado ao curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Erechim. Atualmente, curso Ciência da Computação na URI – Erechim, após conquistar uma bolsa de estudos através do ENEM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo profissionalmente como **Programador de Sistemas de Informação na empresa Transportes Gaurama**, aplicando na prática os conhecimentos adquiridos em sala de aula, desenvolvendo e mantendo sistemas internos.
+
+Tenho experiência com **manutenção de computadores**, **redes de computadores**, **suporte técnico**, **administração de servidores Windows e Linux** e continuo me especializando na área de tecnologia em busca de novas oportunidades profissionais.
+
+---
+
+### 🌐 Redes Sociais:
+
+- [LinkedIn](https://www.linkedin.com/in/enzobazzi)
+- [Instagram](https://www.instagram.com/enzo.bazzi_10)
+
+---
+
+### ⚙️ Tecnologias e Ferramentas:
+
+<img align="left" alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" title="React (em aprendizado)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📚 Atualmente estudando:
+
+- Ciência da Computação – URI Erechim
+- Desenvolvimento Web com React (em andamento)
+- Aprimoramento em Redes e Infraestrutura de TI
+
+---
+
+### 📈 Estatísticas GitHub:
+
+<p align="left">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=enzobazzi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzobazzi&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" />
+</p>
+
+---
+
+*Em busca de novas oportunidades profissionais na área de Tecnologia da Informação.*
+
