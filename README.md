@@ -4,7 +4,7 @@
 
 Olá! Me chamo Enzo Bazzi, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o Ensino Médio integrado ao curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Erechim. Atualmente, curso Ciência da Computação na URI – Erechim, após conquistar uma bolsa de estudos através do ENEM.
 
-Atuo profissionalmente como **Assistente de TI na Empresa Metaro**, aplicando na prática os conhecimentos adquiridos em sala de aula, desenvolvendo e mantendo sistemas internos.
+Atuo como **Assistente de TI na Empresa Metaro**, sendo responsável pela infraestrutura de tecnologia e prestando suporte no desenvolvimento e manutenção de sistemas internos.
 
 Tenho experiência com **manutenção de computadores**, **redes de computadores**, **suporte técnico**, **administração de servidores Windows e Linux** e continuo me especializando na área de tecnologia, em busca de **novas oportunidades profissionais**.
 
