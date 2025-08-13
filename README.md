@@ -4,7 +4,7 @@
 
 Olá! Me chamo Enzo Bazzi, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o Ensino Médio integrado ao curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Erechim. Atualmente, curso Ciência da Computação na URI – Erechim, após conquistar uma bolsa de estudos através do ENEM.
 
-Atuo profissionalmente como **Programador de Sistemas de Informação na empresa Transportes Gaurama**, aplicando na prática os conhecimentos adquiridos em sala de aula, desenvolvendo e mantendo sistemas internos.
+Atuo profissionalmente como **Assistente de TI na Empresa Metaro**, aplicando na prática os conhecimentos adquiridos em sala de aula, desenvolvendo e mantendo sistemas internos.
 
 Tenho experiência com **manutenção de computadores**, **redes de computadores**, **suporte técnico**, **administração de servidores Windows e Linux** e continuo me especializando na área de tecnologia, em busca de **novas oportunidades profissionais**.
 
@@ -62,9 +62,10 @@ Tenho experiência com **manutenção de computadores**, **redes de computadores
 ### 📈 Estatísticas GitHub:
 
 <p align="left">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo1010&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo1010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" />
 </p>
+
 
 ---
 <br/>
