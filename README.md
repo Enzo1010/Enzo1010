@@ -67,6 +67,6 @@ Tenho experiência com **manutenção de computadores**, **redes de computadores
 </p>
 
 ---
-
+<br/>
 *Em busca de novas oportunidades profissionais na área de Tecnologia da Informação.*
 
