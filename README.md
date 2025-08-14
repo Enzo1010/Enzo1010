@@ -66,17 +66,6 @@ Tenho experiência com **manutenção de computadores**, **redes de computadores
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" />
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 ---
 <br/>
 *Em busca de novas oportunidades profissionais na área de Tecnologia da Informação.*
