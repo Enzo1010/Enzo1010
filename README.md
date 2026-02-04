@@ -53,17 +53,6 @@ Tenho experiência com **manutenção de computadores**, **redes de computadores
 
 - Ciência da Computação – URI Erechim
 - Aprimoramento em Redes e Infraestrutura de TI
-
----
-
-### 📈 Estatísticas GitHub:
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo1010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&langs_count=7&custom_title=Tecnologias" />
-</p>
-
----
 <br/>
 
 
