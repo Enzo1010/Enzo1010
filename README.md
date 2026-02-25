@@ -10,7 +10,8 @@ Tenho experiência com **manutenção de computadores**, **redes de computadores
 
 ### 🌐 Redes Sociais:
 
-- [LinkedIn](https://www.linkedin.com/in/enzobazzi)
+- 🌍 [Portfólio](https://enzobazzi.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/enzobazzi)
 
 ---
 
