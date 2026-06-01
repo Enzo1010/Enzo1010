@@ -1,4 +1,4 @@
-# Olá, eu sou o Enzo 👋
+# Hi there, I'm Enzo! 👋
 
 Estudante de **Ciência da Computação** e **Técnico em Informática**, com experiência em suporte técnico, manutenção de computadores, redes e infraestrutura de TI.
 
