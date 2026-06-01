@@ -1,58 +1,66 @@
 # 👨🏻‍💻 Enzo Bazzi de Oliveira
 
-**Estudante de Ciência da Computação | Técnico em Informática | Suporte Técnico e Programação**
+### Estudante de Ciência da Computação | Técnico em Informática | Suporte Técnico e Programação
 
-Olá! Me chamo Enzo Bazzi, tenho 19 anos. Concluí o Ensino Médio integrado ao curso Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul – Campus Erechim. Atualmente, curso Ciência da Computação na URI – Erechim.
+Sou estudante de **Ciência da Computação na URI – Erechim** e Técnico em Informática pelo **IFRS – Campus Erechim**.
 
-Tenho experiência com **manutenção de computadores**, **redes de computadores**, **suporte técnico**, e continuo me especializando na área de tecnologia, em busca de **novas oportunidades profissionais**.
+Atuo na área de TI com experiência em **suporte técnico**, **manutenção de computadores**, **redes**, **infraestrutura** e desenvolvimento de soluções voltadas para tecnologia.
 
----
-
-### 🌐 Redes Sociais:
-
-- 🌍 [Portfólio](https://enzobazzi.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/enzobazzi)
+Tenho interesse em tecnologia, programação e infraestrutura, buscando evoluir constantemente como profissional e aplicar soluções práticas no dia a dia.
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas:
+## 🚀 Sobre mim
 
-#### 🚀 Front-end:
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" title="React (em aprendizado)" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-
-
-<br/>
-<br/>
-
-#### 🖥️ Back-end:
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
-<br/>
-<br/>
-
-#### 🗄️ Banco de Dados:
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-<br/>
-<br/>
-
-#### 🛠️ Outros:
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
-
-<br/>
-<br/>
+- 🎓 Cursando Ciência da Computação
+- 🛠️ Técnico em Informática pelo IFRS – Campus Erechim
+- 💻 Experiência com suporte técnico, redes e manutenção
+- 🧠 Interesse em programação, infraestrutura e desenvolvimento de software
+- 📚 Sempre estudando novas tecnologias e boas práticas
 
 ---
 
-### 📚 Atualmente estudando:
+## 🧰 Stack e Ferramentas
 
-- Ciência da Computação – URI Erechim
-- Aprimoramento em Redes e Infraestrutura de TI
-<br/>
+### Linguagens e Desenvolvimento
 
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### Sistemas e Ferramentas
+
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-111?style=for-the-badge&logo=windows&logoColor=0078D4)
+
+---
+
+## 📚 Atualmente estudando
+
+Java • Programação Orientada a Objetos • Banco de Dados  
+Desenvolvimento Web • Redes • Infraestrutura de TI
+
+---
+
+## 🌐 Onde me encontrar
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://enzobazzi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/enzobazzi)
+
+---
+
+## 📊 GitHub
+
+<div align="left">
+
+![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobazzi554j&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobazzi554j&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
