@@ -37,22 +37,11 @@ Tenho interesse em tecnologia, programação e infraestrutura, buscando evoluir 
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ### Ferramentas e Sistemas
 
 <img src="https://skillicons.dev/icons?i=git,linux,windows" />
-
-</div>
-
----
-
-## 📚 Atualmente estudando
-
-<div align="center">
-
-`Java` • `Programação Orientada a Objetos` • `Banco de Dados`  
-`Desenvolvimento Web` • `Redes` • `Infraestrutura de TI`
 
 </div>
 
