@@ -1,62 +1,46 @@
-<div align="center">
-
-# 👨🏻‍💻 Enzo Bazzi de Oliveira
-
-### Estudante de Ciência da Computação | Técnico em Informática | Suporte Técnico e Programação
+# Hi there, I'm Enzo! 👋
 
 <p>
-  <a href="https://enzobazzi.dev" target="_blank">🌐 Portfólio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/enzobazzi" target="_blank">💼 LinkedIn</a>
+  <a href="https://enzobazzi.dev" target="_blank">
+    <img src="https://img.icons8.com/fluency/24/domain.png" alt="Portfólio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/enzobazzi" target="_blank">
+    <img src="https://img.icons8.com/fluency/24/linkedin.png" alt="LinkedIn"/>
+  </a>
 </p>
 
-</div>
+Olá! Me chamo **Enzo Bazzi de Oliveira**, sou estudante de Ciência da Computação e Técnico em Informática.
+
+- 🎓 Curso **Ciência da Computação** na URI Erechim
+- 🛠️ Tenho experiência com **suporte técnico, manutenção de computadores, redes e infraestrutura de TI**
+- 💻 Trabalho com tecnologia e gosto de resolver problemas de forma prática
+- 📚 Busco aprimorar meus conhecimentos em **programação, banco de dados e infraestrutura**
+- 🌐 Acesse meu portfólio [aqui](https://enzobazzi.dev)
 
 ---
 
-## 🧑🏻‍💻 Sobre mim
+## Linguagens e Ferramentas
 
-Sou estudante de **Ciência da Computação na URI – Erechim** e Técnico em Informática pelo **IFRS – Campus Erechim**.
-
-Atuo na área de TI com experiência em **suporte técnico**, **manutenção de computadores**, **redes**, **infraestrutura** e desenvolvimento de soluções voltadas para tecnologia.
-
-Tenho interesse em tecnologia, programação e infraestrutura, buscando evoluir constantemente como profissional e aplicar soluções práticas no dia a dia.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,git,linux,windows" />
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Estatísticas do GitHub
 
-<div align="center">
-
-### Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-### Ferramentas e Sistemas
-
-<img src="https://skillicons.dev/icons?i=git,linux,windows" />
-
-</div>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzobazzi554j&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 
 ---
 
-## 🎯 Desenvolvimento profissional
+## Foco profissional
 
-Busco evoluir constantemente na área de tecnologia, ampliando meus conhecimentos em programação, suporte técnico e infraestrutura de TI.
-
-Tenho facilidade em aprender, gosto de resolver problemas e procuro sempre aplicar soluções práticas, organizadas e eficientes no dia a dia.
-
----
-
-<div align="center">
-
-### 🌐 Onde me encontrar
-
-<a href="https://enzobazzi.dev" target="_blank">Portfólio</a> • 
-<a href="https://www.linkedin.com/in/enzobazzi" target="_blank">LinkedIn</a>
-
-</div>
+- 🧠 Aprimorar minha lógica de programação e resolução de problemas
+- ☕ Evoluir meus conhecimentos em Java e Programação Orientada a Objetos
+- 🗄️ Trabalhar melhor com bancos de dados e conceitos de SQL
+- 🌐 Desenvolver mais habilidades em desenvolvimento web
+- 🛠️ Fortalecer minha experiência em suporte técnico e infraestrutura de TI
+- 🚀 Construir uma base cada vez mais sólida para crescer na área de tecnologia
