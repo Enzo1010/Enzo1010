@@ -1,6 +1,23 @@
+<div align="center">
+
 # 👨🏻‍💻 Enzo Bazzi de Oliveira
 
 ### Estudante de Ciência da Computação | Técnico em Informática | Suporte Técnico e Programação
+
+<p>
+  <a href="https://enzobazzi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/enzobazzi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑🏻‍💻 Sobre mim
 
 Sou estudante de **Ciência da Computação na URI – Erechim** e Técnico em Informática pelo **IFRS – Campus Erechim**.
 
@@ -10,57 +27,50 @@ Tenho interesse em tecnologia, programação e infraestrutura, buscando evoluir 
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Tecnologias e Ferramentas
 
-- 🎓 Cursando Ciência da Computação
-- 🛠️ Técnico em Informática pelo IFRS – Campus Erechim
-- 💻 Experiência com suporte técnico, redes e manutenção
-- 🧠 Interesse em programação, infraestrutura e desenvolvimento de software
-- 📚 Sempre estudando novas tecnologias e boas práticas
+<div align="center">
 
----
+### Desenvolvimento
 
-## 🧰 Stack e Ferramentas
-
-### Linguagens e Desenvolvimento
-
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+<img src="https://skillicons.dev/icons?i=html,css,js,java" />
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Sistemas e Ferramentas
+### Ferramentas e Sistemas
 
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-111?style=for-the-badge&logo=windows&logoColor=0078D4)
+<img src="https://skillicons.dev/icons?i=git,linux,windows" />
+
+</div>
 
 ---
 
 ## 📚 Atualmente estudando
 
-Java • Programação Orientada a Objetos • Banco de Dados  
-Desenvolvimento Web • Redes • Infraestrutura de TI
+<div align="center">
+
+`Java` • `Programação Orientada a Objetos` • `Banco de Dados`  
+`Desenvolvimento Web` • `Redes` • `Infraestrutura de TI`
+
+</div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🎯 Desenvolvimento profissional
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://enzobazzi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/enzobazzi)
+Busco evoluir constantemente na área de tecnologia, ampliando meus conhecimentos em programação, suporte técnico e infraestrutura de TI.
+
+Tenho facilidade em aprender, gosto de resolver problemas e procuro sempre aplicar soluções práticas, organizadas e eficientes no dia a dia.
 
 ---
 
-## 📊 GitHub
+<div align="center">
 
-<div align="left">
+### 🌐 Onde me encontrar
 
-![Enzo GitHub stats](https://github-readme-stats.vercel.app/api?username=enzobazzi554j&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzobazzi554j&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://enzobazzi.dev" target="_blank">Portfólio</a> • 
+<a href="https://www.linkedin.com/in/enzobazzi" target="_blank">LinkedIn</a>
 
 </div>
