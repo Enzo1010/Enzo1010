@@ -1,46 +1,35 @@
-# Hi there, I'm Enzo! 👋
+# Olá, eu sou o Enzo 👋
 
-<p>
-  <a href="https://enzobazzi.dev" target="_blank">
-    <img src="https://img.icons8.com/fluency/24/domain.png" alt="Portfólio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/enzobazzi" target="_blank">
-    <img src="https://img.icons8.com/fluency/24/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
+Estudante de **Ciência da Computação** e **Técnico em Informática**, com experiência em suporte técnico, manutenção de computadores, redes e infraestrutura de TI.
 
-Olá! Me chamo **Enzo Bazzi de Oliveira**, sou estudante de Ciência da Computação e Técnico em Informática.
+Atuo na área de tecnologia resolvendo problemas práticos do dia a dia e sigo aprimorando meus conhecimentos em programação, banco de dados e infraestrutura.
 
-- 🎓 Curso **Ciência da Computação** na URI Erechim
-- 🛠️ Tenho experiência com **suporte técnico, manutenção de computadores, redes e infraestrutura de TI**
-- 💻 Trabalho com tecnologia e gosto de resolver problemas de forma prática
-- 📚 Busco aprimorar meus conhecimentos em **programação, banco de dados e infraestrutura**
-- 🌐 Acesse meu portfólio [aqui](https://enzobazzi.dev)
+[Portfólio](https://enzobazzi.dev) · [LinkedIn](https://www.linkedin.com/in/enzobazzi)
 
 ---
 
-## Linguagens e Ferramentas
+## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,git,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,postgres,git,linux,windows&theme=dark" />
 </p>
 
 ---
 
-## Estatísticas do GitHub
+## Áreas de interesse
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzobazzi554j&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
+- Desenvolvimento web
+- Programação em Java
+- Banco de dados
+- Redes de computadores
+- Infraestrutura de TI
+- Suporte técnico
 
 ---
 
-## Foco profissional
+## Sobre mim
 
-- 🧠 Aprimorar minha lógica de programação e resolução de problemas
-- ☕ Evoluir meus conhecimentos em Java e Programação Orientada a Objetos
-- 🗄️ Trabalhar melhor com bancos de dados e conceitos de SQL
-- 🌐 Desenvolver mais habilidades em desenvolvimento web
-- 🛠️ Fortalecer minha experiência em suporte técnico e infraestrutura de TI
-- 🚀 Construir uma base cada vez mais sólida para crescer na área de tecnologia
+- Curso **Ciência da Computação** na URI Erechim
+- Sou Técnico em Informática pelo IFRS — Campus Erechim
+- Tenho experiência com manutenção, redes, suporte e infraestrutura
+- Gosto de aprender, resolver problemas e melhorar processos com tecnologia
