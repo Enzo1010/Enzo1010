@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software e estudante de Ciência da Computação. Possuo sólida base técnica e atuação prática unindo desenvolvimento de sistemas e infraestrutura de TI, com foco na construção de soluções eficientes, manuteníveis e orientadas a banco de dados.
 
-🔗 [Portfólio](https://enzobazzi.dev/) • [LinkedIn](www.linkedin.com/in/enzobazzi)
+🔗 [Portfólio](https://enzobazzi.dev/) • [LinkedIn](https://www.linkedin.com/in/enzobazzi/)
 
 ---
 
