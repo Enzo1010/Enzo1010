@@ -28,8 +28,8 @@ Desenvolvedor de Software e estudante de Ciência da Computação. Possuo sólid
 
 ---
 
-### 📌 Sobre Mim
+### Sobre Mim
 
-* 🎓 Graduando em **Ciência da Computação** (URI) e **Técnico em Informática** (IFRS).
-* ⚙️ Experiência com ciclo de vida de desenvolvimento, suporte corporativo e gestão de infraestrutura/redes.
-* 🚀 Foco atual no ecossistema **Java & Spring Boot**, modelagem de software (UML) e bancos relacionais.
+* Graduando em **Ciência da Computação** (URI) e **Técnico em Informática** (IFRS).
+* Experiência com ciclo de vida de desenvolvimento, suporte corporativo e gestão de infraestrutura/redes.
+* Foco atual no ecossistema **Java & Spring Boot**, modelagem de software (UML) e bancos relacionais.
