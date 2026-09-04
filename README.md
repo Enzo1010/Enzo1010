@@ -16,7 +16,7 @@ Desenvolvedor de Software e graduando em Ciência da Computação. Atuação pr�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="38" height="38"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" style="filter: invert(1);" alt="macOS" width="38" height="38"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="38" height="38"/>
 </p>
 
@@ -25,8 +25,8 @@ Desenvolvedor de Software e graduando em Ciência da Computação. Atuação pr�
 ### 📊 Atividade no GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Enzo1010&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Enzo1010&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Enzo1010&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
