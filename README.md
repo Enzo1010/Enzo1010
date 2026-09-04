@@ -1,8 +1,8 @@
 # Olá, sou o Enzo! 
 
-Desenvolvedor de Software e graduando em Ciência da Computação. Atuação prática combinando desenvolvimento de sistemas, engenharia de software e infraestrutura de TI.
+Desenvolvedor de Software e graduando Ciência da Computação. Atuação prática combinando desenvolvimento de sistemas, engenharia de software e infraestrutura de TI.
 
-🔗 [Portfólio](SEU_LINK) • [LinkedIn](SEU_LINK)
+🔗 [Portfólio](https://enzobazzi.dev/) • [LinkedIn](https://www.linkedin.com/in/enzobazzi/)
 
 ---
 
@@ -33,6 +33,6 @@ Desenvolvedor de Software e graduando em Ciência da Computação. Atuação pr�
 
 ### Sobre Mim
 
-*  Graduando em **Ciência da Computação** (URI) e **Técnico em Informática** (IFRS).
+*  Graduando **Ciência da Computação** (URI) e **Técnico em Informática** (IFRS).
 *  Experiência com ciclo de desenvolvimento de software, suporte corporativo e infraestrutura.
 *  Foco no ecossistema **Java & Spring Boot**, modelagem relacional e arquitetura de software.
